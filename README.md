@@ -6,3 +6,4 @@
 <a href="https://www.twitter.com/lew_br"><img src="https://img.shields.io/badge/discord-%99AAB5.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://www.twitter.com/lew_br"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://instagram.com/lewbr"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
