@@ -7,7 +7,7 @@
 <a href="https://www.twitter.com/lew_br"><img src="https://img.shields.io/badge/facebook-3b5998.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <br>
 <a href="https://www.twitter.com/lew_br"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://instagram.com/lewbr"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://instagram.com/lewbr"><img src="https://img.shields.io/badge/instagram-833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.twitter.com/lew_br"><img src="https://img.shields.io/badge/github-211F1F.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 <br>
 <a href="https://www.twitter.com/lew_br"><img src="https://img.shields.io/badge/steam-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"/></a>
