@@ -1,4 +1,4 @@
-# Hello, welcome to lewbr's github page, my real name is Leonardo Santos Jacyntho and i was born in Brazil in 20 April 2003.
+# Hello, welcome to lewbr's github page, my real name is Leonardo Santos and i was born in Brazil in 20 April 2003.
 <h3 align="center"> Social Media </h3>
 <br />
 <p align="center">
